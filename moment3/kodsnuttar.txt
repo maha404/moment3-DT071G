@@ -1,0 +1,12 @@
+Post post1 = new Post(); // instans av klassen post
+            // definering av datan som finns i klassen post
+            post1.author = "Maria";
+            post1.content = "Liite text!";
+
+
+// Skapande av en klass
+public class Post
+    {
+        public string author; 
+        public string content;
+    }
