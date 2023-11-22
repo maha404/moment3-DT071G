@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria\\OneDrive\\Skrivbord\\Programmering med c#\\Moment 3\\moment3\\moment3.csproj": {}
+    "C:\\Users\\Maria\\OneDrive\\Skrivbord\\moment3-DT071G\\moment3\\moment3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria\\OneDrive\\Skrivbord\\Programmering med c#\\Moment 3\\moment3\\moment3.csproj": {
+    "C:\\Users\\Maria\\OneDrive\\Skrivbord\\moment3-DT071G\\moment3\\moment3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\Programmering med c#\\Moment 3\\moment3\\moment3.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\moment3-DT071G\\moment3\\moment3.csproj",
         "projectName": "moment3",
-        "projectPath": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\Programmering med c#\\Moment 3\\moment3\\moment3.csproj",
+        "projectPath": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\moment3-DT071G\\moment3\\moment3.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\Programmering med c#\\Moment 3\\moment3\\obj\\",
+        "outputPath": "C:\\Users\\Maria\\OneDrive\\Skrivbord\\moment3-DT071G\\moment3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
